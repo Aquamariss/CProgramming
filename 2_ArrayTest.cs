@@ -5,7 +5,7 @@ namespace ArrayTest
 {
     class ExplorerArray
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
 
             int ArrayLimit = 10;
@@ -30,6 +30,7 @@ namespace ArrayTest
             }
 
             Console.WriteLine("Array is: "+ArrString+". Number of unique values is: "+uniqCount);
+            // Сложность алгоритма O(n)
         }
     }
    

@@ -4,7 +4,7 @@ namespace Calculator
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int digit1 = 0, digit2;
             Console.Write("Введите 1 число: ");
@@ -43,5 +43,5 @@ namespace Calculator
 
 
         }
-    }
+    } 
 }

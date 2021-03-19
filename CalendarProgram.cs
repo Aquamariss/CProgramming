@@ -5,7 +5,7 @@ namespace Calendar
 { 
     class CalendarProgram
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             int digit = 0;
             bool continuer = true;

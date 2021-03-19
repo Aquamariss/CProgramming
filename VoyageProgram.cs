@@ -5,7 +5,7 @@ namespace Voyage
 { 
     class VoyageProgram
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             char direction;
             bool continuer = true;
